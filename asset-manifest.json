@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/applecoding_blog/static/css/main.671e0bd4.css",
+    "main.js": "/applecoding_blog/static/js/main.d6c272ec.js",
+    "static/js/453.ede2c593.chunk.js": "/applecoding_blog/static/js/453.ede2c593.chunk.js",
+    "static/media/logo.svg": "/applecoding_blog/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/applecoding_blog/index.html",
+    "main.671e0bd4.css.map": "/applecoding_blog/static/css/main.671e0bd4.css.map",
+    "main.d6c272ec.js.map": "/applecoding_blog/static/js/main.d6c272ec.js.map",
+    "453.ede2c593.chunk.js.map": "/applecoding_blog/static/js/453.ede2c593.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.671e0bd4.css",
+    "static/js/main.d6c272ec.js"
+  ]
+}
